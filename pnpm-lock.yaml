@@ -24,6 +24,18 @@ importers:
         specifier: ^5.3.2
         version: 5.3.3
 
+  packages/contextify-hook:
+    dependencies:
+      '@types/react':
+        specifier: ^18.2.42
+        version: 18.2.42
+      react:
+        specifier: ^18.2.0
+        version: 18.2.0
+      typescript:
+        specifier: ^5.3.2
+        version: 5.3.3
+
   packages/redsux:
     dependencies:
       react:
